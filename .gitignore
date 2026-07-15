@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Cleaned dataset folder
+Clean Dataset for modelling/
+models/
+
+# Original dataset folder
+original dataset/
+
+*.csv
